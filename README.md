@@ -1,7 +1,7 @@
 # 📊 Power BI Sales Analysis Dashboard
 
 ## Dashboard Preview
-![Sales Dashboard](DASHBOARD.png)
+![Sales Dashboard](DASHBOARD.PNG)
 
 ## Project Overview
 Built a Sales Analysis Dashboard using Power BI covering data modeling, data transformation, and interactive reporting.
